@@ -4,5 +4,6 @@
   "dependencies": {
     "request": "^2.79.0"
   },
-  "author": "ioncodes"
+  "author": "ioncodes",
+  "url": "https://github.com/ioncodes/yummly-api"
 }
