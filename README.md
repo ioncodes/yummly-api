@@ -8,7 +8,7 @@ npm install yummly-api
 
 # Example
 ```js
-var Yummly = require('./yummly.js');
+var Yummly = require('yummly.js');
 var yummly = new Yummly();
 
 yummly.setSearch('burger');
